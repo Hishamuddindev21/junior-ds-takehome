@@ -6,6 +6,7 @@ Welcome! We want to see how you handle a typical end-to-end data problem. Your g
 We value **clean code**, **logical thinking**, and **proper usage of libraries** (specifically Pandas and Scikit-Learn pipelines) over getting the "perfect" metric score.
 
 ## ⏳ Time Commitment
+Please complete this assignment within a week of recieving it.
 This assignment is designed to be completed in **approx. 2 to 3 hours**. We recommend breaking it down over a few days (e.g., 20 mins/day).
 
 ## 🛠️ Setup
